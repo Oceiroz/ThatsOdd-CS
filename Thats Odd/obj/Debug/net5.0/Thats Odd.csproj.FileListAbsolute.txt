@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.exe
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.deps.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.runtimeconfig.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.runtimeconfig.dev.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\bin\Debug\net5.0\Thats Odd.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.AssemblyInfo.cs
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\refint\Thats Odd.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\Thats Odd.genruntimeconfig.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Thats Odd\obj\Debug\net5.0\ref\Thats Odd.dll
